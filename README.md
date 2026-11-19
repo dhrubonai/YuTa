@@ -23,6 +23,28 @@ It's a hobby project I built from a few open-source projects, and I hope you lik
 - Background play, with lyrics
 - Find a song by listening to it
 
+## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home</b><br><img src="screenshots/home.png" width="240"></td>
+      <td align="center"><b>Shorts</b><br><img src="screenshots/shorts.png" width="240"></td>
+      <td align="center"><b>Music</b><br><img src="screenshots/music.png" width="240"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Subscriptions</b><br><img src="screenshots/subscriptions.png" width="240"></td>
+      <td align="center"><b>Downloads</b><br><img src="screenshots/downloads.png" width="240"></td>
+      <td align="center"><b>Video Player</b><br><img src="screenshots/video-player.png" width="240"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Music Player</b><br><img src="screenshots/music-player.png" width="240"></td>
+      <td align="center"><b>Settings</b><br><img src="screenshots/settings.png" width="240"></td>
+      <td align="center"></td>
+    </tr>
+  </table>
+</div>
+
 ## Download
 
 [![Download YuTa](https://img.shields.io/badge/Download-YuTa-181717?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dhrubonai/YuTa/releases/latest/download/YuTa-v1.apk)
