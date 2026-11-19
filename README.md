@@ -34,7 +34,7 @@ Android 8 and newer. Tap the button and the download starts right away.
 If YuTa made your YouTube time better, give the project a star and share it with someone else who is tired of the ads. It costs nothing, and it keeps this little project alive.
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/9rnp0Lt5xVgAAAAC/tamaki-tamaki-suoh.gif" width="320" alt="Please give me money">
+  <img src="tamaki.gif" width="320" alt="Please give me money">
 </p>
 
 <p align="center">
