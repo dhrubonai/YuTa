@@ -4,6 +4,8 @@
 
 > YouTube and YouTube Music, without the ads.
 
+🌐 Website: [yu-ta.pages.dev](https://yu-ta.pages.dev)
+
 **Completely free. No ads, ever.**
 
 ## About
