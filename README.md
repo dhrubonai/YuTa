@@ -25,12 +25,16 @@ It's a hobby project I built from a few open-source projects, and I hope you lik
 
 ## Download
 
-Get the latest APK from the [releases page](https://github.com/dhrubonai/YuTa/releases/latest). Android 8 and newer.
+[![Download YuTa](https://img.shields.io/badge/Download-YuTa-181717?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dhrubonai/YuTa/releases/latest/download/YuTa-v1.apk)
+
+Android 8 and newer. Tap the button and the download starts right away.
 
 ## If it helped you
 
 If YuTa made your YouTube time better, give the project a star and share it with someone else who is tired of the ads. It costs nothing, and it keeps this little project alive.
 
-[![Help Us](https://img.shields.io/badge/Help_Us-Support-2f2f2f?style=for-the-badge)](https://www.supportkori.com/dhrubomorse)
+<p align="center">
+  <a href="https://www.supportkori.com/dhrubomorse"><img src="https://img.shields.io/badge/Help_Us-Support-2f2f2f?style=for-the-badge" width="320" alt="Help Us"></a>
+</p>
 
 Free forever, with no ads. A little support keeps it alive — and free for everyone.
