@@ -64,3 +64,13 @@ If YuTa made your YouTube time better, give the project a star and share it with
 </p>
 
 Free forever, with no ads. A little support keeps it alive — and free for everyone.
+
+---
+
+<p align="center">
+  <img src="hats-off.gif" width="320" alt="Hats off">
+</p>
+
+## Hats off to the open-source developers
+
+YuTa only exists because of the developers who work on open-source projects and share what they build with everyone online. Their help, their contributions — that's what made this app possible. They are the heroes who don't wear capes.
