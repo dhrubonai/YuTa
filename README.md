@@ -49,7 +49,7 @@ It's a hobby project I built from a few open-source projects, and I hope you lik
 
 ## Download
 
-[![Download YuTa](https://img.shields.io/badge/Download-YuTa-181717?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dhrubonai/YuTa/releases/latest/download/YuTa-v1.apk)
+[![Download YuTa](https://img.shields.io/badge/Download-YuTa-181717?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dhrubonai/YuTa/releases/download/v1.5.15/YuTa-v1.5.apk)
 
 Android 8 and newer. Tap the button and the download starts right away.
 
